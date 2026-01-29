@@ -1,0 +1,17 @@
+# environments
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# data + models
+data/processed/
+models/
+reports/
+*.parquet
+
+# secrets
+.env
+
+# notebooks
+.ipynb_checkpoints/
