@@ -15,3 +15,8 @@ reports/
 
 # notebooks
 .ipynb_checkpoints/
+
+# Data
+data/raw/
+data/processed/
+
